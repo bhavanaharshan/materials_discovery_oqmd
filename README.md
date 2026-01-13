@@ -18,7 +18,7 @@ The model achieves state-of-the-art performance, particularly in modeling comple
 | **Formation Energy** | **0.922** | **0.137** | **0.21 ms** |
 | **Band Gap** | **0.813** | **0.204** | **0.21 ms** |
 
-> **Impact:** Reduces inference latency by **six orders of magnitude ($10^6$x)** compared to traditional DFT calculations, enabling the screening of millions of candidates in minutes.
+> **Impact:** Reduces inference latency by **six orders of magnitude (10^6x)** compared to traditional DFT calculations, enabling the screening of millions of candidates in minutes.
 
 ## Methodology & Architecture
 
