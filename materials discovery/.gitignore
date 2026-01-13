@@ -1,0 +1,19 @@
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual Environments
+env/
+.env
+
+# Large Data (GitHub has a 100MB limit!)
+# Comment these out if your data is small (<50MB)
+*.csv
+*.zip
+*.pt
+*.pth
+*.h5
+
+# IDE settings
+.vscode/
